@@ -1,1 +1,1 @@
-Console Appication para entendimento do conceito de Task no C#.
+Console Application para entendimento do conceito de Task no C#.
